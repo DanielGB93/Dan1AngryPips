@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in Data Science.
+- 👀 I’m interested in Data Science and web development
 - 🌱 I’m currently learning Machine Learning in python.
 - 💞️ I’m looking to collaborate on data science projects and learn as much as I can. 
 
